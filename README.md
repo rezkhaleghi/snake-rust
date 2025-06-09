@@ -2,6 +2,8 @@
 
 A classic Snake game implementation in Rust using the Crossterm library for terminal manipulation.
 
+![Project Demo](/demo.png)
+
 ## Overview
 
 This is a simple, terminal-based Snake game where you control a snake that grows longer as it eats food. The game ends when the snake hits the wall or itself.
